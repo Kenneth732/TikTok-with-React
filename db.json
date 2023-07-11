@@ -1,0 +1,59 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Fine Bitch",
+        "genre": "🎵 Pych.. class",
+        "releaseYear": 2020,
+        "director": "Director 1",
+        "movieFile": "/movies/p1.mp4",
+        "image": "/images/p1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Moon Walk",
+        "genre": "🎵🎵🎵 One makes me..",
+        "releaseYear": 2018,
+        "director": "Director 2",
+        "movieFile": "/movies/p5.mp4",
+        "image": "/images/p2.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Idian Laugh",
+        "genre": "Comedy",
+        "releaseYear": 2018,
+        "director": "Director 2",
+        "movieFile": "/movies/p2.mp4",
+        "image": "/images/p3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Kiin Manh...",
+        "genre": "Comedy",
+        "releaseYear": 2018,
+        "director": "Director 2",
+        "movieFile": "/movies/p4.mp4",
+        "image": "/images/p5.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Nasra Moha",
+        "genre": "Comedy",
+        "releaseYear": 2018,
+        "director": "Director 2",
+        "movieFile": "/movies/p6.mp4",
+        "image": "/images/p6.png"
+      },
+      {
+        "id": 4,
+        "title": "Lassive cascar",
+        "genre": "Comedy",
+        "releaseYear": 2018,
+        "director": "Director 2",
+        "movieFile": "/movies/p7.mp4",
+        "image": "/images/p7.png"
+      }
+    ]
+  }
+  
